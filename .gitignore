@@ -1,0 +1,14 @@
+# NexusDesk Microservice .gitignore
+target/
+*.jar
+*.war
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+iniciar_repositorio.bat
+iniciar_repositorio.ps1
+INSTRUCCIONES_LEEME.txt
+*.bat

@@ -23,3 +23,4 @@ java -jar target/*.jar
 ```
 
 <!-- Build verified with Java 25 LTS / Spring Boot 4.0.8 -->
+<!-- Ready for production deployment -->
